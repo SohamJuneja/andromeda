@@ -1,0 +1,15 @@
+{
+    "name": "Workshop_Dress",
+    "description": "Mechanical Workshop Dress",
+    "image": "https://image.made-in-china.com/2f0j00VbzovGIJLdci/Custom-Sets-Jacket-and-Pants-Work-Safety-Wear-Uniforms-for-Mechanical-Workshop.jpg",
+    "attributes": [
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
+}
